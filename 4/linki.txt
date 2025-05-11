@@ -1,0 +1,3 @@
+https://gov.pl/;strona rządowa rządu
+https://dane.gov.pl/;strona z danymi
+https://info.cern.ch/;stara strona
